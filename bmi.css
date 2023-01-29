@@ -1,0 +1,22 @@
+.btn{
+  margin-top: 10px;
+}
+
+.card{
+  margin: 50px;
+}
+
+body{
+  background-color: black;
+}
+
+#result{
+  font-size: 60px;
+  color: white;
+  font-weight: bold;
+}
+
+#comment{
+  color: white;
+  font-size: 20px;
+}
